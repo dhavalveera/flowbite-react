@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.9.1
+
+### Patch Changes
+
+- [#1371](https://github.com/themesberg/flowbite-react/pull/1371) [`92cec6f`](https://github.com/themesberg/flowbite-react/commit/92cec6ff58ae980f34e32ea2b2dc19b151452a0e) Thanks [@SutuSebastian](https://github.com/SutuSebastian)! - Mega Menu - export all entities
+
 ## 0.9.0
 
 ### Minor Changes
