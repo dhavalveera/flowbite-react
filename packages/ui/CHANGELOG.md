@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.10.2
+
+### Patch Changes
+
+- [#1484](https://github.com/themesberg/flowbite-react/pull/1484) [`38913e5`](https://github.com/themesberg/flowbite-react/commit/38913e51536ecf1c8e924a6de571880cb91d2ea0) Thanks [@KRTirtho](https://github.com/KRTirtho)! - fix: autocomplete for string enums with dynamic value not working
+
 ## 0.10.1
 
 ### Patch Changes
